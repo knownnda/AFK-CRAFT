@@ -1,9 +1,9 @@
 import time
 import keyboard
 
-import brain 
-import config 
-import state 
+import brain #brain.py (gonna make it later on)
+import config #config.py (gonna make it later on)
+import state # state.py (gonna also make it later on)
 
 def on_start():
     if state.running:
